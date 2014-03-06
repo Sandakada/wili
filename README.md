@@ -18,3 +18,5 @@
 
 නැවතත් අරඹන්න PC කට්ටිය අත double click කරන්න. Touch කට්ටිය අතුල්ලන්න.
 අනිත් විස්තර ගේමෙ තීනව
+
+Play Wili Online - http://sandakada.github.io/wili/online/
